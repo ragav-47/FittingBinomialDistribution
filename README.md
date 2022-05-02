@@ -26,9 +26,9 @@ The following are criteria for a frequency distribution to be a binomial distrib
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
 # Program
- Developed by 
- Register Number: 212220230059
- Name: ARR.VIJAYARAGAVAN
+ Developed by <br>
+ Register Number: 212220230059 <br>
+ Name: ARR.VIJAYARAGAVAN <br>
 ```python
 import numpy as np
 import math
@@ -67,3 +67,4 @@ else:
 
 
 # Result:
+Thus, fitting poisson distribution for the given frequencey distribution is verified.
