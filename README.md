@@ -63,7 +63,8 @@ else:
 
 
 # Output : 
-![exp1](https://user-images.githubusercontent.com/75235488/166263786-c281a0c6-5a42-42da-8f80-6f5be4b1dd82.png)
+![image](https://user-images.githubusercontent.com/75235488/168961860-672cd3af-74da-42b8-95fa-8e828205cd58.png)
+
 
 
 # Result:
