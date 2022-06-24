@@ -1,4 +1,6 @@
-# Fitting Binomial Distribution
+### EX NO : 01
+### DATE  : 30.03.2022
+# <p align="center">Fitting Binomial Distribution</p>
 
 # Aim : 
 
@@ -21,9 +23,6 @@ The following are criteria for a frequency distribution to be a binomial distrib
 2. Each trial can result in just two possible outcomes (a success anda failure).
 3. The trials are independent (the outcome on one trial does not affect the outcome on other trials).
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
